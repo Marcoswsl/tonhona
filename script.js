@@ -15,14 +15,7 @@ setInterval(() => {
 
 // Lista de frases românticas
 const quotes = [
-    "Desde que te conheci, cada dia é uma aventura maravilhosa.",
-    "Seu sorriso ilumina meus dias, e seus olhos castanhos me encantam a cada olhar.",
-    "Amo os seus cabelos vermelhos que refletem sua paixão e alegria.",
-    "Você trouxe cor e vida aos meus dias, e eu sou eternamente grato.",
-    "Cada momento com você é um tesouro que guardo no meu coração.",
-    "Os dias ao seu lado são preenchidos com amor e felicidade.",
-    "Você é a melodia que embala meus dias e a paz que acalma meu coração.",
-    "Seu amor é a luz que guia meu caminho e o calor que aquece meu coração."
+    "trocar dps"
 ];
 
 // Atualizar a frase romântica
